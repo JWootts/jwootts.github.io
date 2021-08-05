@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jwootts.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/jwootts.github.io/static/js/main.a31a76ce.chunk.js",
-    "main.js.map": "/jwootts.github.io/static/js/main.a31a76ce.chunk.js.map",
-    "runtime-main.js": "/jwootts.github.io/static/js/runtime-main.3a44b705.js",
-    "runtime-main.js.map": "/jwootts.github.io/static/js/runtime-main.3a44b705.js.map",
-    "static/js/2.d0eb047a.chunk.js": "/jwootts.github.io/static/js/2.d0eb047a.chunk.js",
-    "static/js/2.d0eb047a.chunk.js.map": "/jwootts.github.io/static/js/2.d0eb047a.chunk.js.map",
-    "static/js/3.a6e4d959.chunk.js": "/jwootts.github.io/static/js/3.a6e4d959.chunk.js",
-    "static/js/3.a6e4d959.chunk.js.map": "/jwootts.github.io/static/js/3.a6e4d959.chunk.js.map",
-    "index.html": "/jwootts.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/jwootts.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/jwootts.github.io/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/jwootts.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-app/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/my-app/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.e532e237.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.e532e237.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/my-app/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/my-app/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/my-app/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/my-app/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/my-app/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a44b705.js",
+    "static/js/runtime-main.e532e237.js",
     "static/js/2.d0eb047a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a31a76ce.chunk.js"
