@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6de721f9.chunk.css",
-    "main.js": "/static/js/main.b258eb8b.chunk.js",
-    "main.js.map": "/static/js/main.b258eb8b.chunk.js.map",
+    "main.js": "/static/js/main.e5f348f6.chunk.js",
+    "main.js.map": "/static/js/main.e5f348f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1971d881.js",
     "runtime-main.js.map": "/static/js/runtime-main.1971d881.js.map",
-    "static/js/2.08232960.chunk.js": "/static/js/2.08232960.chunk.js",
-    "static/js/2.08232960.chunk.js.map": "/static/js/2.08232960.chunk.js.map",
+    "static/js/2.528e1282.chunk.js": "/static/js/2.528e1282.chunk.js",
+    "static/js/2.528e1282.chunk.js.map": "/static/js/2.528e1282.chunk.js.map",
     "static/js/3.63e7b470.chunk.js": "/static/js/3.63e7b470.chunk.js",
     "static/js/3.63e7b470.chunk.js.map": "/static/js/3.63e7b470.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.6de721f9.chunk.css.map": "/static/css/main.6de721f9.chunk.css.map",
-    "static/js/2.08232960.chunk.js.LICENSE.txt": "/static/js/2.08232960.chunk.js.LICENSE.txt",
+    "static/js/2.528e1282.chunk.js.LICENSE.txt": "/static/js/2.528e1282.chunk.js.LICENSE.txt",
     "static/media/Cineplex_logo.dc91b301.png": "/static/media/Cineplex_logo.dc91b301.png",
     "static/media/Fanshawe-logo.fc4697e3.png": "/static/media/Fanshawe-logo.fc4697e3.png",
     "static/media/JW_Resume.0e90e37b.pdf": "/static/media/JW_Resume.0e90e37b.pdf",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1971d881.js",
-    "static/js/2.08232960.chunk.js",
+    "static/js/2.528e1282.chunk.js",
     "static/css/main.6de721f9.chunk.css",
-    "static/js/main.b258eb8b.chunk.js"
+    "static/js/main.e5f348f6.chunk.js"
   ]
 }
