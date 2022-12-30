@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.121ae6ae.chunk.css",
-    "main.js": "/static/js/main.50181780.chunk.js",
-    "main.js.map": "/static/js/main.50181780.chunk.js.map",
+    "main.js": "/static/js/main.8668e3b6.chunk.js",
+    "main.js.map": "/static/js/main.8668e3b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fb98696d.js",
     "runtime-main.js.map": "/static/js/runtime-main.fb98696d.js.map",
     "static/css/2.93f6ccdc.chunk.css": "/static/css/2.93f6ccdc.chunk.css",
@@ -16,16 +16,17 @@
     "static/js/2.5498831d.chunk.js.LICENSE.txt": "/static/js/2.5498831d.chunk.js.LICENSE.txt",
     "static/media/Cineplex_logo.dc91b301.png": "/static/media/Cineplex_logo.dc91b301.png",
     "static/media/Fanshawe-logo.fc4697e3.png": "/static/media/Fanshawe-logo.fc4697e3.png",
-    "static/media/JW_Resume.0e90e37b.pdf": "/static/media/JW_Resume.0e90e37b.pdf",
+    "static/media/JW_Resume.377ee877.pdf": "/static/media/JW_Resume.377ee877.pdf",
     "static/media/canada-revenue-agency.d99f700f.png": "/static/media/canada-revenue-agency.d99f700f.png",
     "static/media/logo.aa7ba225.png": "/static/media/logo.aa7ba225.png",
-    "static/media/ucc-logo.7e530576.jpg": "/static/media/ucc-logo.7e530576.jpg"
+    "static/media/pfp.996b7a9b.jpg": "/static/media/pfp.996b7a9b.jpg",
+    "static/media/ucc-logo.259bf505.png": "/static/media/ucc-logo.259bf505.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb98696d.js",
     "static/css/2.93f6ccdc.chunk.css",
     "static/js/2.5498831d.chunk.js",
     "static/css/main.121ae6ae.chunk.css",
-    "static/js/main.50181780.chunk.js"
+    "static/js/main.8668e3b6.chunk.js"
   ]
 }
