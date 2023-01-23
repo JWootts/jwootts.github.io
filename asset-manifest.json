@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.121ae6ae.chunk.css",
-    "main.js": "/static/js/main.dcf2eb9f.chunk.js",
-    "main.js.map": "/static/js/main.dcf2eb9f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fb98696d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fb98696d.js.map",
+    "main.css": "/static/css/main.337f1ebf.chunk.css",
+    "main.js": "/static/js/main.e130118b.chunk.js",
+    "main.js.map": "/static/js/main.e130118b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f2ce146.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f2ce146.js.map",
     "static/css/2.93f6ccdc.chunk.css": "/static/css/2.93f6ccdc.chunk.css",
-    "static/js/2.5498831d.chunk.js": "/static/js/2.5498831d.chunk.js",
-    "static/js/2.5498831d.chunk.js.map": "/static/js/2.5498831d.chunk.js.map",
-    "static/js/3.1bb2c9fa.chunk.js": "/static/js/3.1bb2c9fa.chunk.js",
-    "static/js/3.1bb2c9fa.chunk.js.map": "/static/js/3.1bb2c9fa.chunk.js.map",
+    "static/js/2.8cc7d7f4.chunk.js": "/static/js/2.8cc7d7f4.chunk.js",
+    "static/js/2.8cc7d7f4.chunk.js.map": "/static/js/2.8cc7d7f4.chunk.js.map",
+    "static/js/3.7176e275.chunk.js": "/static/js/3.7176e275.chunk.js",
+    "static/js/3.7176e275.chunk.js.map": "/static/js/3.7176e275.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.93f6ccdc.chunk.css.map": "/static/css/2.93f6ccdc.chunk.css.map",
-    "static/css/main.121ae6ae.chunk.css.map": "/static/css/main.121ae6ae.chunk.css.map",
-    "static/js/2.5498831d.chunk.js.LICENSE.txt": "/static/js/2.5498831d.chunk.js.LICENSE.txt",
+    "static/css/main.337f1ebf.chunk.css.map": "/static/css/main.337f1ebf.chunk.css.map",
+    "static/js/2.8cc7d7f4.chunk.js.LICENSE.txt": "/static/js/2.8cc7d7f4.chunk.js.LICENSE.txt",
     "static/media/Cineplex_logo.dc91b301.png": "/static/media/Cineplex_logo.dc91b301.png",
     "static/media/Fanshawe-logo.fc4697e3.png": "/static/media/Fanshawe-logo.fc4697e3.png",
     "static/media/JW_Resume.377ee877.pdf": "/static/media/JW_Resume.377ee877.pdf",
@@ -23,10 +23,10 @@
     "static/media/ucc-logo.259bf505.png": "/static/media/ucc-logo.259bf505.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb98696d.js",
+    "static/js/runtime-main.6f2ce146.js",
     "static/css/2.93f6ccdc.chunk.css",
-    "static/js/2.5498831d.chunk.js",
-    "static/css/main.121ae6ae.chunk.css",
-    "static/js/main.dcf2eb9f.chunk.js"
+    "static/js/2.8cc7d7f4.chunk.js",
+    "static/css/main.337f1ebf.chunk.css",
+    "static/js/main.e130118b.chunk.js"
   ]
 }
