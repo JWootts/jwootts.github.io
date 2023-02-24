@@ -1,26 +1,18 @@
 {
-  "files": {
-    "main.css": "/static/css/main.b9124a1f.chunk.css",
-    "main.js": "/static/js/main.172b2f1d.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.6f2ce146.js",
-    "static/css/2.1bf63ada.chunk.css": "/static/css/2.1bf63ada.chunk.css",
-    "static/js/2.98f2636d.chunk.js": "/static/js/2.98f2636d.chunk.js",
-    "static/js/3.7176e275.chunk.js": "/static/js/3.7176e275.chunk.js",
-    "index.html": "/index.html",
-    "static/js/2.98f2636d.chunk.js.LICENSE.txt": "/static/js/2.98f2636d.chunk.js.LICENSE.txt",
-    "static/media/Cineplex_logo.dc91b301.png": "/static/media/Cineplex_logo.dc91b301.png",
-    "static/media/Fanshawe-logo.fc4697e3.png": "/static/media/Fanshawe-logo.fc4697e3.png",
-    "static/media/JW_Resume.377ee877.pdf": "/static/media/JW_Resume.377ee877.pdf",
-    "static/media/canada-revenue-agency.d99f700f.png": "/static/media/canada-revenue-agency.d99f700f.png",
-    "static/media/logo.aa7ba225.png": "/static/media/logo.aa7ba225.png",
-    "static/media/pfp.996b7a9b.jpg": "/static/media/pfp.996b7a9b.jpg",
-    "static/media/ucc-logo.259bf505.png": "/static/media/ucc-logo.259bf505.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.6f2ce146.js",
-    "static/css/2.1bf63ada.chunk.css",
-    "static/js/2.98f2636d.chunk.js",
-    "static/css/main.b9124a1f.chunk.css",
-    "static/js/main.172b2f1d.chunk.js"
-  ]
+  "main.css": "/static/css/main.ab279735.chunk.css",
+  "main.js": "/static/js/main.543a83fe.chunk.js",
+  "static/js/1.ccdfce8b.chunk.js": "/static/js/1.ccdfce8b.chunk.js",
+  "static/css/2.e1bedd5f.chunk.css": "/static/css/2.e1bedd5f.chunk.css",
+  "static/js/2.f4445f04.chunk.js": "/static/js/2.f4445f04.chunk.js",
+  "runtime~main.js": "/static/js/runtime~main.ae4ca73a.js",
+  "static/media/logo.png": "/static/media/logo.1a102014.png",
+  "static/media/canada-revenue-agency.png": "/static/media/canada-revenue-agency.de562854.png",
+  "static/media/Cineplex_logo.png": "/static/media/Cineplex_logo.317d27b6.png",
+  "static/media/Fanshawe-logo.png": "/static/media/Fanshawe-logo.e1470dc6.png",
+  "static/media/ucc-logo.png": "/static/media/ucc-logo.0802b346.png",
+  "static/media/pfp.jpg": "/static/media/pfp.dc678d44.jpg",
+  "static/media/JW_Resume.pdf": "/static/media/JW_Resume.c0ff11db.pdf",
+  "index.html": "/index.html",
+  "precache-manifest.3f0607701bbddcddb2e0ea106364ce70.js": "/precache-manifest.3f0607701bbddcddb2e0ea106364ce70.js",
+  "service-worker.js": "/service-worker.js"
 }
