@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.ab279735.chunk.css",
-  "main.js": "/static/js/main.796cb79b.chunk.js",
+  "main.css": "/static/css/main.a0b3b288.chunk.css",
+  "main.js": "/static/js/main.b4de5aeb.chunk.js",
   "static/js/1.ccdfce8b.chunk.js": "/static/js/1.ccdfce8b.chunk.js",
   "static/css/2.e1bedd5f.chunk.css": "/static/css/2.e1bedd5f.chunk.css",
-  "static/js/2.9e9dd7e0.chunk.js": "/static/js/2.9e9dd7e0.chunk.js",
+  "static/js/2.66efa89f.chunk.js": "/static/js/2.66efa89f.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.ae4ca73a.js",
   "static/media/logo.png": "/static/media/logo.1a102014.png",
   "static/media/canada-revenue-agency.png": "/static/media/canada-revenue-agency.de562854.png",
@@ -13,6 +13,6 @@
   "static/media/pfp.jpg": "/static/media/pfp.dc678d44.jpg",
   "static/media/JW_Resume.pdf": "/static/media/JW_Resume.c0ff11db.pdf",
   "index.html": "/index.html",
-  "precache-manifest.1ee3d86f2d49348b80417f48dc61f83d.js": "/precache-manifest.1ee3d86f2d49348b80417f48dc61f83d.js",
+  "precache-manifest.658febbb3ae5df761c70e2e74bde1bd7.js": "/precache-manifest.658febbb3ae5df761c70e2e74bde1bd7.js",
   "service-worker.js": "/service-worker.js"
 }
